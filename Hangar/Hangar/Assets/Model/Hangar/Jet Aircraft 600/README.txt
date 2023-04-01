@@ -1,0 +1,1 @@
+Please note that I'm not coder and scripts in demo scene are only for demo purposes.

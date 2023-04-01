@@ -1,0 +1,681 @@
+fileFormatVersion: 2
+guid: 4655994096f5aad4983e7563e9ba6218
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box001
+    100004: Box002
+    100006: Box004
+    100008: Cylinder002
+    100010: Cylinder004
+    100012: gear_F
+    100014: Object002
+    100016: Object003
+    100018: Object007
+    100020: Object010
+    100022: Object012
+    100024: Object016
+    100026: Object017
+    100028: wheel_F
+    100030: wheel_F001
+    100032: Airfoil_L
+    100034: Airfoil_R
+    100036: Body
+    100038: Cockpit
+    100040: Door_F
+    100042: Door_FL
+    100044: Door_FR
+    100046: Door_L
+    100048: Door_R
+    100050: Elevator_L
+    100052: Elevator_R
+    100054: Flap1_add1_L
+    100056: Flap1_add1_R
+    100058: Flap1_add2_L
+    100060: Flap1_add2_R
+    100062: Flap1_L
+    100064: Flap1_R
+    100066: Flap2_add1_L001
+    100068: Flap2_add1_R
+    100070: Flap2_add2_L
+    100072: Flap2_add2_R
+    100074: Flap2_add3_L
+    100076: Flap2_add3_R
+    100078: Flap2_L
+    100080: Flap2_R
+    100082: Gear_F
+    100084: Gear_L
+    100086: Gear_R
+    100088: Rudder
+    100090: window
+    100092: Joystick_L
+    100094: Joystick_R
+    400000: //RootNode
+    400002: Box001
+    400004: Box002
+    400006: Box004
+    400008: Cylinder002
+    400010: Cylinder004
+    400012: gear_F
+    400014: Object002
+    400016: Object003
+    400018: Object007
+    400020: Object010
+    400022: Object012
+    400024: Object016
+    400026: Object017
+    400028: wheel_F
+    400030: wheel_F001
+    400032: Airfoil_L
+    400034: Airfoil_R
+    400036: Body
+    400038: Cockpit
+    400040: Door_F
+    400042: Door_FL
+    400044: Door_FR
+    400046: Door_L
+    400048: Door_R
+    400050: Elevator_L
+    400052: Elevator_R
+    400054: Flap1_add1_L
+    400056: Flap1_add1_R
+    400058: Flap1_add2_L
+    400060: Flap1_add2_R
+    400062: Flap1_L
+    400064: Flap1_R
+    400066: Flap2_add1_L001
+    400068: Flap2_add1_R
+    400070: Flap2_add2_L
+    400072: Flap2_add2_R
+    400074: Flap2_add3_L
+    400076: Flap2_add3_R
+    400078: Flap2_L
+    400080: Flap2_R
+    400082: Gear_F
+    400084: Gear_L
+    400086: Gear_R
+    400088: Rudder
+    400090: window
+    400092: Joystick_L
+    400094: Joystick_R
+    2300000: Box001
+    2300002: Box002
+    2300004: Box004
+    2300006: Cylinder002
+    2300008: Cylinder004
+    2300010: gear_F
+    2300012: Object002
+    2300014: Object003
+    2300016: Object007
+    2300018: Object010
+    2300020: Object012
+    2300022: Object016
+    2300024: Object017
+    2300026: wheel_F
+    2300028: wheel_F001
+    2300030: //RootNode
+    2300032: Airfoil_L
+    2300034: Airfoil_R
+    2300036: Body
+    2300038: Cockpit
+    2300040: Door_F
+    2300042: Door_FL
+    2300044: Door_FR
+    2300046: Door_L
+    2300048: Door_R
+    2300050: Elevator_L
+    2300052: Elevator_R
+    2300054: Flap1_add1_L
+    2300056: Flap1_add1_R
+    2300058: Flap1_add2_L
+    2300060: Flap1_add2_R
+    2300062: Flap1_L
+    2300064: Flap1_R
+    2300066: Flap2_add1_L001
+    2300068: Flap2_add1_R
+    2300070: Flap2_add2_L
+    2300072: Flap2_add2_R
+    2300074: Flap2_add3_L
+    2300076: Flap2_add3_R
+    2300078: Flap2_L
+    2300080: Flap2_R
+    2300082: Gear_F
+    2300084: Gear_L
+    2300086: Gear_R
+    2300088: Rudder
+    2300090: window
+    2300092: Joystick_L
+    2300094: Joystick_R
+    3300000: Box001
+    3300002: Box002
+    3300004: Box004
+    3300006: Cylinder002
+    3300008: Cylinder004
+    3300010: gear_F
+    3300012: Object002
+    3300014: Object003
+    3300016: Object007
+    3300018: Object010
+    3300020: Object012
+    3300022: Object016
+    3300024: Object017
+    3300026: wheel_F
+    3300028: wheel_F001
+    3300030: //RootNode
+    3300032: Airfoil_L
+    3300034: Airfoil_R
+    3300036: Body
+    3300038: Cockpit
+    3300040: Door_F
+    3300042: Door_FL
+    3300044: Door_FR
+    3300046: Door_L
+    3300048: Door_R
+    3300050: Elevator_L
+    3300052: Elevator_R
+    3300054: Flap1_add1_L
+    3300056: Flap1_add1_R
+    3300058: Flap1_add2_L
+    3300060: Flap1_add2_R
+    3300062: Flap1_L
+    3300064: Flap1_R
+    3300066: Flap2_add1_L001
+    3300068: Flap2_add1_R
+    3300070: Flap2_add2_L
+    3300072: Flap2_add2_R
+    3300074: Flap2_add3_L
+    3300076: Flap2_add3_R
+    3300078: Flap2_L
+    3300080: Flap2_R
+    3300082: Gear_F
+    3300084: Gear_L
+    3300086: Gear_R
+    3300088: Rudder
+    3300090: window
+    3300092: Joystick_L
+    3300094: Joystick_R
+    4300000: Object002
+    4300002: Cylinder002
+    4300004: Box001
+    4300006: Object003
+    4300008: Object010
+    4300010: Object012
+    4300012: Box002
+    4300014: Object007
+    4300016: gear_F
+    4300018: wheel_F
+    4300020: wheel_F001
+    4300022: Object016
+    4300024: Object017
+    4300026: Cylinder004
+    4300028: Box004
+    4300030: Body
+    4300032: window
+    4300034: Cockpit
+    4300036: Door_F
+    4300038: Elevator_R
+    4300040: Gear_F
+    4300042: Gear_R
+    4300044: Gear_L
+    4300046: Flap1_add1_R
+    4300048: Flap1_add1_L
+    4300050: Flap2_add3_L
+    4300052: Door_L
+    4300054: Door_R
+    4300056: Door_FL
+    4300058: Door_FR
+    4300060: Airfoil_L
+    4300062: Flap2_L
+    4300064: Flap1_L
+    4300066: Flap1_R
+    4300068: Flap2_R
+    4300070: Airfoil_R
+    4300072: Rudder
+    4300074: Elevator_L
+    4300076: Flap2_add1_R
+    4300078: Flap2_add2_R
+    4300080: Flap2_add3_R
+    4300082: Flap1_add2_R
+    4300084: Flap1_add2_L
+    4300086: Flap2_add1_L001
+    4300088: Flap2_add2_L
+    4300090: Joystick_R
+    4300092: Joystick_L
+    7400000: Gear opening
+    7400002: Gear open
+    7400004: Gear closing
+    7400006: Gear closed
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Gear opening
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Airfoil_L
+        weight: 1
+      - path: Airfoil_R
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Cockpit
+        weight: 1
+      - path: Door_F
+        weight: 1
+      - path: Door_FL
+        weight: 1
+      - path: Door_FR
+        weight: 1
+      - path: Door_L
+        weight: 1
+      - path: Door_R
+        weight: 1
+      - path: Elevator_L
+        weight: 1
+      - path: Elevator_R
+        weight: 1
+      - path: Flap1_add1_L
+        weight: 1
+      - path: Flap1_add1_R
+        weight: 1
+      - path: Flap1_add2_L
+        weight: 1
+      - path: Flap1_add2_R
+        weight: 1
+      - path: Flap1_L
+        weight: 1
+      - path: Flap1_R
+        weight: 1
+      - path: Flap2_add1_L001
+        weight: 1
+      - path: Flap2_add1_R
+        weight: 1
+      - path: Flap2_add2_L
+        weight: 1
+      - path: Flap2_add2_R
+        weight: 1
+      - path: Flap2_add3_L
+        weight: 1
+      - path: Flap2_add3_R
+        weight: 1
+      - path: Flap2_L
+        weight: 1
+      - path: Flap2_R
+        weight: 1
+      - path: Gear_F
+        weight: 1
+      - path: Gear_L
+        weight: 1
+      - path: Gear_R
+        weight: 1
+      - path: Joystick_L
+        weight: 1
+      - path: Joystick_R
+        weight: 1
+      - path: Rudder
+        weight: 1
+      - path: window
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Gear open
+      takeName: Take 001
+      firstFrame: 20
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Airfoil_L
+        weight: 1
+      - path: Airfoil_R
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Cockpit
+        weight: 1
+      - path: Door_F
+        weight: 1
+      - path: Door_FL
+        weight: 1
+      - path: Door_FR
+        weight: 1
+      - path: Door_L
+        weight: 1
+      - path: Door_R
+        weight: 1
+      - path: Elevator_L
+        weight: 1
+      - path: Elevator_R
+        weight: 1
+      - path: Flap1_add1_L
+        weight: 1
+      - path: Flap1_add1_R
+        weight: 1
+      - path: Flap1_add2_L
+        weight: 1
+      - path: Flap1_add2_R
+        weight: 1
+      - path: Flap1_L
+        weight: 1
+      - path: Flap1_R
+        weight: 1
+      - path: Flap2_add1_L001
+        weight: 1
+      - path: Flap2_add1_R
+        weight: 1
+      - path: Flap2_add2_L
+        weight: 1
+      - path: Flap2_add2_R
+        weight: 1
+      - path: Flap2_add3_L
+        weight: 1
+      - path: Flap2_add3_R
+        weight: 1
+      - path: Flap2_L
+        weight: 1
+      - path: Flap2_R
+        weight: 1
+      - path: Gear_F
+        weight: 1
+      - path: Gear_L
+        weight: 1
+      - path: Gear_R
+        weight: 1
+      - path: Joystick_L
+        weight: 1
+      - path: Joystick_R
+        weight: 1
+      - path: Rudder
+        weight: 1
+      - path: window
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Gear closing
+      takeName: Take 001
+      firstFrame: 21
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Airfoil_L
+        weight: 1
+      - path: Airfoil_R
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Cockpit
+        weight: 1
+      - path: Door_F
+        weight: 1
+      - path: Door_FL
+        weight: 1
+      - path: Door_FR
+        weight: 1
+      - path: Door_L
+        weight: 1
+      - path: Door_R
+        weight: 1
+      - path: Elevator_L
+        weight: 1
+      - path: Elevator_R
+        weight: 1
+      - path: Flap1_add1_L
+        weight: 1
+      - path: Flap1_add1_R
+        weight: 1
+      - path: Flap1_add2_L
+        weight: 1
+      - path: Flap1_add2_R
+        weight: 1
+      - path: Flap1_L
+        weight: 1
+      - path: Flap1_R
+        weight: 1
+      - path: Flap2_add1_L001
+        weight: 1
+      - path: Flap2_add1_R
+        weight: 1
+      - path: Flap2_add2_L
+        weight: 1
+      - path: Flap2_add2_R
+        weight: 1
+      - path: Flap2_add3_L
+        weight: 1
+      - path: Flap2_add3_R
+        weight: 1
+      - path: Flap2_L
+        weight: 1
+      - path: Flap2_R
+        weight: 1
+      - path: Gear_F
+        weight: 1
+      - path: Gear_L
+        weight: 1
+      - path: Gear_R
+        weight: 1
+      - path: Joystick_L
+        weight: 1
+      - path: Joystick_R
+        weight: 1
+      - path: Rudder
+        weight: 1
+      - path: window
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Gear closed
+      takeName: Take 001
+      firstFrame: 41
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Airfoil_L
+        weight: 1
+      - path: Airfoil_R
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Cockpit
+        weight: 1
+      - path: Door_F
+        weight: 1
+      - path: Door_FL
+        weight: 1
+      - path: Door_FR
+        weight: 1
+      - path: Door_L
+        weight: 1
+      - path: Door_R
+        weight: 1
+      - path: Elevator_L
+        weight: 1
+      - path: Elevator_R
+        weight: 1
+      - path: Flap1_add1_L
+        weight: 1
+      - path: Flap1_add1_R
+        weight: 1
+      - path: Flap1_add2_L
+        weight: 1
+      - path: Flap1_add2_R
+        weight: 1
+      - path: Flap1_L
+        weight: 1
+      - path: Flap1_R
+        weight: 1
+      - path: Flap2_add1_L001
+        weight: 1
+      - path: Flap2_add1_R
+        weight: 1
+      - path: Flap2_add2_L
+        weight: 1
+      - path: Flap2_add2_R
+        weight: 1
+      - path: Flap2_add3_L
+        weight: 1
+      - path: Flap2_add3_R
+        weight: 1
+      - path: Flap2_L
+        weight: 1
+      - path: Flap2_R
+        weight: 1
+      - path: Gear_F
+        weight: 1
+      - path: Gear_L
+        weight: 1
+      - path: Gear_R
+        weight: 1
+      - path: Joystick_L
+        weight: 1
+      - path: Joystick_R
+        weight: 1
+      - path: Rudder
+        weight: 1
+      - path: window
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
